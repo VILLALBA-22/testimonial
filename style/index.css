@@ -96,7 +96,7 @@ div, h3{
         grid-auto-rows: 53% 47%;
         grid-template-areas: "Daniel Daniel Jonathan Kira"
                              "Jeanette Patrick Patrick Kira" ;
-        padding: 2% 5%;
+        padding: 7% 5%;
         height: 100%;
         gap: 20px;
         width: 100%;
